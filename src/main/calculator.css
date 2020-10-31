@@ -1,0 +1,13 @@
+.calculator{
+    height:300px;
+    width: 200px;
+    background-color:#c5c1c15b;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: 1fr 50px;
+    
+    box-shadow: 0 0 1.5em #666, 0 0 1.5em #666;
+    border-radius: 5px;
+    border: 1px solid #555;
+}

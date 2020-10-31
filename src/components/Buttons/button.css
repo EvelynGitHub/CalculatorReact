@@ -1,0 +1,29 @@
+.button{
+    font-size: 2rem;
+    background-color: #e2e1e1;
+
+    border: none;
+    margin: 1px;
+    outline: none;
+}
+
+.button:active{
+    background: #d6d6d6ce;
+}
+
+.duble {
+    grid-column: span 2;
+}
+
+.triple{
+    grid-column: span 3;
+}
+
+.operation{
+    background-color: #fd8a1d;
+    color: white;
+}
+
+.operation:active{
+    background-color: #fd891dd8;
+}
