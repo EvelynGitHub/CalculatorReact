@@ -2,7 +2,7 @@
 
 <center>
 
-![Imagem de capa](https://github.com/EvelynGitHub/calculator-react/public/capa.png)
+![Imagem de capa](https://github.com/EvelynGitHub/calculator-react/blob/main/public/capa.png)
 
 </center>
 <center>
