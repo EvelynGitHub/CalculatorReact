@@ -1,9 +1,7 @@
-# Nome do Projeto
+# calculator-react
 
 <center>
-
 ![Imagem de capa](https://github.com/EvelynGitHub/calculator-react/blob/main/public/capa.png)
-
 </center>
 <center>
 
